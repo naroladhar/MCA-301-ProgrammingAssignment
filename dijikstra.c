@@ -1,18 +1,3 @@
-
-Attachment DBMSAssignment2(Narola_23).zip added.Added abhishek bhardwaj. Press backspace to remove.
-
-Skip to content
-Using Gmail with screen readers
-Enable desktop notifications for Gmail.
-   OK  No thanks
-
-Conversations
-0.42 GB (2%) of 15 GB used
-Manage
-Terms · Privacy · Program Policies
-Last account activity: 28 minutes ago
-Details
-
 // A C++ program for Dijkstra's single source shortest path algorithm. 
 // The program is for adjacency matrix representation of the graph 
 
@@ -105,5 +90,3 @@ int graph[V][V] = {{0, 4, 0, 0, 0, 0, 0, 8, 0},
 
 	return 0; 
 } 
-dijikstra.txt
-Displaying n queens.txt.
